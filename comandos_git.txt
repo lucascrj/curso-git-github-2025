@@ -3,3 +3,16 @@ git status -> mostra o status do trabalho (de cada arquivo)
 git add nome_arquivo -> adiciona arquivo para ser commitadoo
 git commit -m "msg" -> realiza commit do que estava pendente
 git log -> mostra todo o histórico de commit
+git diff nome arquivo -> mostra a diferença do estado atual do arquivo para o antigo commit
+git reset nome arquivo -> remove o arquivo do commit
+## FLUXO DE TRABALHO
+
+1. criar diretório (pasta) do projeto
+2. iniciar o git dentro do diretório criado (git init .)
+3. edita ou cria arquivos
+4. git status
+5. git add <nome arquivo>
+6. git status
+7. git commit -m "mensagem"
+8. git status
+9. volta para passo 3.
