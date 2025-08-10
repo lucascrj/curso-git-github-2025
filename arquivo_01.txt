@@ -1,2 +1,3 @@
-teste
+Edição do arquivo 01.
 
+Inclusão do merge.
