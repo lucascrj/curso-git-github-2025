@@ -8,3 +8,4 @@ Um curso para iniciantes aprenderem a trabalhar com versionamento de código e r
 
 Yeah boy!
 
+Esse arquivo foi commitado através do VS Code.
